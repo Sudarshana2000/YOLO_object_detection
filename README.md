@@ -36,7 +36,7 @@ Upon running the program, you need to provide the following:
 
 ## Results
 
-![1](images/IMG3.jpg)
+![1](images/output3.jpg)
 
 
 ![2](videos/output2.gif)
