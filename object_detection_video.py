@@ -1,7 +1,7 @@
 import object_detection as od
 import cv2
 import time
-
+import argparse
 
 def video_object_detect(video,path):
     cap=cv2.VideoCapture(video)
